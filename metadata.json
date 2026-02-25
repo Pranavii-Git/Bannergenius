@@ -1,0 +1,5 @@
+{
+  "name": "BannerGenius",
+  "description": "Generate professional banner ads in all standard sizes from a product URL and description using Gemini AI.",
+  "requestFramePermissions": []
+}
